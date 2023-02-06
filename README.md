@@ -10,8 +10,7 @@
 - 📫 How to reach me **stuebidario@gmail.com**
 
 - ⚡ Fun fact **I am a beatboxer**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
